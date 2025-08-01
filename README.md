@@ -1,12 +1,35 @@
-# React + Vite
+# ✅ React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant Todo List web app built using React.js. This app helps you manage your daily tasks effectively with an intuitive user interface.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:**  
+👉 [react-todo-app-orcin-three.vercel.app](https://react-todo-app-orcin-three.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📝 Add new tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 📋 Track your task progress
+- 💾 Data persists during the session (local state)
+
+---
+
+## ⚙️ Tech Stack
+
+- **React.js**
+- **JavaScript (ES6)**
+- **HTML5 & CSS3**
+- **Vercel** – for deployment
+
+---
+
+## 🚀 Getting Started (Local Setup)
+
+```bash
+git clone https://github.com/your-username/react-todo-app.git
+cd react-todo-app
+npm install
+npm start
